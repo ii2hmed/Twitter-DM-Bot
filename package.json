@@ -1,0 +1,27 @@
+{
+  "name": "nt-message-bot",
+  "version": "1.0.0",
+  "description": "Automatically sends a message to new Twitter followers.",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nicktirrell/Twitter-DM-Bot"
+  },
+  "keywords": [
+    "twitter",
+    "bot",
+    "message"
+  ],
+  "author": "Nick Tirrell",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nicktirrell/Twitter-DM-Bot"
+  },
+  "homepage": "https://github.com/nicktirrell/Twitter-DM-Bot",
+  "dependencies": {
+    "twit": "^2.2.5"
+  }
+}
